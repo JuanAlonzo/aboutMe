@@ -1,8 +1,7 @@
--  Hi, Mi name is Juan Jaramillo and I'm a software engineering student.
--  I’m interested in games, coding and others.
--  I’m currently learning HTML, CSS, frameworks, and more about this.
--  I’m looking to collaborate on ...
--  How to reach me ...
+-  Hi, Mi name is Alonso and I'm a software engineering student.
+-  I’m currently learning Frontend Frameworks and some of Backend.
+-  Learning English, too... 
+
 
 <!---
 JuanAlonzo/JuanAlonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
